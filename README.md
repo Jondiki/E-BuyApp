@@ -19,13 +19,7 @@ Le modèle **user** a les champs suivants : **_id**, **firstname**, **lastname**
 
 Le modèle **produit** a les champs suivants : **_id**, **name**, **price**, **quantity**, **image**
 
-## Résultats
 
-### Product
-
-![Accueil](src/assets/images/captures/product1.png) 
-![Accueil](src/assets/images/captures/product2.png) 
-![Accueil](src/assets/images/captures/product3.png) 
 
 ### User
 
